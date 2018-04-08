@@ -10,6 +10,10 @@
 2. [PC全屏翻页](https://github.com/momo1030/Plugins/tree/master/pc-responsive)（PC自适应全屏翻页，基于swiper2）
 3. [横屏布局的旋转解决方案](https://github.com/randomlwh/f2e-rem-rotate)（rem布局，解决横屏布局的旋转问题）
 
+### 视频类
+1. [移动端视频类video实现](https://github.com/randomlwh/f2e-rem)
+2. [移动端视频canvas实现](https://github.com/momo1030/Plugins/tree/master/pc-responsive)（安卓下可以自动播放）
+
 ### 接口类
 
 1. [新闻客户端接口](http://doc.ws.netease.com/pages/viewpage.action?pageId=2886075)（网易新闻客户端接口）
