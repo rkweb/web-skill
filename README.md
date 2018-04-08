@@ -11,8 +11,8 @@
 3. [横屏布局的旋转解决方案](https://github.com/randomlwh/f2e-rem-rotate)（rem布局，解决横屏布局的旋转问题）
 
 ### 视频类
-1. [移动端视频类video实现](https://github.com/randomlwh/f2e-rem)
-2. [移动端视频canvas实现](https://github.com/momo1030/Plugins/tree/master/pc-responsive)（安卓下可以自动播放）
+1. [移动端视频类video实现](https://github.com/randomlwh/netease-f2e-video)
+2. [移动端视频canvas实现](https://github.com/randomlwh/jsmpeg-ffmpeg)（安卓下可以自动播放）
 
 ### 接口类
 
