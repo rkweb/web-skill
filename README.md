@@ -14,8 +14,8 @@
 1. [移动端视频类video实现](https://github.com/randomlwh/netease-f2e-video)
 2. [移动端视频canvas实现](https://github.com/randomlwh/jsmpeg-ffmpeg)（安卓下可以自动播放）
 
-### 框架
-1. [常用框架](https://github.com/randomlwh/f2e-frames/blob/master/README.md)
+### 常用类库引用地址
+1. [常用类库引用地址](https://github.com/randomlwh/f2e-frames/blob/master/README.md)
 
 ### 接口类
 
