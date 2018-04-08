@@ -44,4 +44,13 @@ if(/Android [4-6]/.test(navigator.appVersion)) {
 }
 ```
 
+### 网易新闻客户端长按保存图片问题
+
+```
+
+如果在body里面加了 -webkit-touch-callout: none; 在网易新闻客户端下无法长按保存图片(微信下可以)
+
+需要在长按保存的元素或者它的父级加 -webkit-touch-callout: default;
+```
+
 
